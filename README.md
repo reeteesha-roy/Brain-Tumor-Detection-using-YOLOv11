@@ -9,7 +9,7 @@ The project was deployed as an interactive **Streamlit web app**, allowing users
 ### 🚀 How It Works
 
 - **Model:** YOLOv11n (a lightweight and fast object detection model)
-- **Dataset:** Brain tumor image dataset
+- **Dataset:** Brain tumor image dataset [https://universe.roboflow.com/fast-dzyt9/tumor_detection-gbckh/dataset/1]
 - **Training:** Fine-tuned pre-trained weights (`YOLOv11n.pt`) on tumor data
 - **Deployment:** Hosted via **Streamlit** for an interactive, browser-based UI
 
