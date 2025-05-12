@@ -1,6 +1,4 @@
-# Brain Tumor Detection using YOLOv11
-
-## 🧠 Brain Tumor Detection using YOLOv11n
+# 🧠 Brain Tumor Detection using YOLOv11
 
 This project leverages `YOLOv11n.pt` (**You Only Look Once**) to detect and classify brain tumors in medical images. Using deep learning and computer vision techniques, the model identifies and localizes tumors to support early detection and diagnosis efforts.
 
